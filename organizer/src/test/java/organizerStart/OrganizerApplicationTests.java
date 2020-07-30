@@ -1,4 +1,4 @@
-package com.example.organizer;
+package organizerStart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
