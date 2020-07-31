@@ -1,9 +1,9 @@
 package organizerStart.services;
 
-import com.lambdaschool.wanderlust.exceptions.ResourceNotFoundException;
-import com.lambdaschool.wanderlust.model.Role;
-import com.lambdaschool.wanderlust.model.UserRoles;
-import com.lambdaschool.wanderlust.repository.RoleRepository;
+import organizerStart.exceptions.ResourceNotFoundException;
+import organizerStart.model.Role;
+import organizerStart.model.UserRoles;
+import organizerStart.repository.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,6 +1,6 @@
 package organizerStart.repository;
 
-import com.lambdaschool.wanderlust.model.User;
+import organizerStart.model.User;
 import org.springframework.data.repository.CrudRepository;
 
 public interface UserRepository extends CrudRepository<User, Long>

@@ -1,6 +1,6 @@
 package organizerStart.repository;
 
-import com.lambdaschool.wanderlust.model.Role;
+import organizerStart.model.Role;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;

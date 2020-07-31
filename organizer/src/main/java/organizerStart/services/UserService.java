@@ -1,6 +1,6 @@
 package organizerStart.services;
 
-import com.lambdaschool.wanderlust.model.User;
+import organizerStart.model.User;
 
 import java.util.List;
 

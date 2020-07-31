@@ -1,6 +1,6 @@
 package organizerStart.services;
 
-import com.lambdaschool.wanderlust.model.Role;
+import organizerStart.model.Role;
 
 import java.util.List;
 

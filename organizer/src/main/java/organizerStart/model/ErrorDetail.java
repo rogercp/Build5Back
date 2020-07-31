@@ -1,7 +1,7 @@
 package organizerStart.model;
 
 
-import com.lambdaschool.wanderlust.exceptions.ValidationError;
+import organizerStart.exceptions.ValidationError;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

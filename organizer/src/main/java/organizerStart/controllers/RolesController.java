@@ -1,7 +1,7 @@
 package organizerStart.controllers;
 
-import com.lambdaschool.wanderlust.model.Role;
-import com.lambdaschool.wanderlust.services.RoleService;
+import organizerStart.model.Role;
+import organizerStart.services.RoleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

@@ -1,7 +1,7 @@
 package organizerStart.handlers;
 
-import com.lambdaschool.wanderlust.exceptions.ResourceNotFoundException;
-import com.lambdaschool.wanderlust.model.ErrorDetail;
+import organizerStart.exceptions.ResourceNotFoundException;
+import organizerStart.model.ErrorDetail;
 import org.springframework.beans.TypeMismatchException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;

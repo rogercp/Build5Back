@@ -1,10 +1,10 @@
 package organizerStart.services;
 
 
-import com.lambdaschool.wanderlust.model.User;
-import com.lambdaschool.wanderlust.model.UserRoles;
-import com.lambdaschool.wanderlust.repository.RoleRepository;
-import com.lambdaschool.wanderlust.repository.UserRepository;
+import organizerStart.model.User;
+import organizerStart.model.UserRoles;
+import organizerStart.repository.RoleRepository;
+import organizerStart.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
